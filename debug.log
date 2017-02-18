@@ -1,0 +1,11 @@
+[0211/233937:ERROR:tcp_listen_socket.cc(76)] Could not bind socket to 127.0.0.1:6004
+[0211/233937:ERROR:node_debugger.cc(86)] Cannot start debugger server
+[0211/234203:ERROR:crash_report_database_win.cc(562)] CreateDirectory C:\Program Files (x86)\Jarhair\Reports\Dump: The system cannot find the path specified. (0x3)
+[0211/234203:ERROR:registration_protocol_win.cc(82)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0211/234203:ERROR:crash_report_database_win.cc(562)] CreateDirectory C:\Program Files (x86)\Jarhair\Reports\Dump: The system cannot find the path specified. (0x3)
+[0212/202637:ERROR:crash_report_database_win.cc(562)] CreateDirectory C:\Program Files (x86)\Jarhair\Reports\Dump: The system cannot find the path specified. (0x3)
+[0212/202637:ERROR:registration_protocol_win.cc(82)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0212/202637:ERROR:crash_report_database_win.cc(562)] CreateDirectory C:\Program Files (x86)\Jarhair\Reports\Dump: The system cannot find the path specified. (0x3)
+[0218/205135:ERROR:crash_report_database_win.cc(562)] CreateDirectory C:\Program Files (x86)\Jarhair\Reports\Dump: The system cannot find the path specified. (0x3)
+[0218/205135:ERROR:registration_protocol_win.cc(82)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0218/205135:ERROR:crash_report_database_win.cc(562)] CreateDirectory C:\Program Files (x86)\Jarhair\Reports\Dump: The system cannot find the path specified. (0x3)
